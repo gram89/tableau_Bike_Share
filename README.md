@@ -9,7 +9,7 @@ Using Python to re-format the data and tableau to visualise the data and showcas
 - Python 
   - Pandas
   - datetime
-
+- Data source: Citibike public data for August 2019
 ### Link to tableau 
 [Dashboard/Story](https://public.tableau.com/views/citibike_challenge_16387466468210/Citibike_story?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)  
 
