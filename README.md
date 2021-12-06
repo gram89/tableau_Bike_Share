@@ -29,6 +29,22 @@ Using the Pandas and Datetime libraries in Python, we reformat the trip-duration
 As per the above image, we can also hypothesise that people take our bikes to and from work.  
 *The working male is an important demographic. However we also have opportunities to develop the women and weekend segment of the bike-share market*  
 ![trips-by-weekday-gender](Images/trips_by_gender_weekday_per_hour.png)
-### Insight 4: 
+### Insight 4: The key task will be to increase subscriptions, as subscribers ride more often than non-subscribers. However this means, we are not tapping into the tourist market, who predominantly might not be subscribers.
+![trips by user type](Images/trips_by_gender_by_weekday.png)
+### Insight 5: Peak ride hours are peak-traffic hours. This information will help us plan our supply and service schedules.
+![peak ride hours](Images/peak_ride_hours.png)
+### Further Analysis: Trip start and end points need to be analysed further
+![trips by starting location](Images/trips_by_starting_location.png)
+
+## Summary
+
+The key items insights from the analysis do set us up for success to launch the bike share program in Des Moines. Considering our clients were tourists who used the bike-share service, the majority of the rides happen by natives and not tourists and this is a key insight which they need to work on.  
+
+There is some further analysis required
+1. Starting and ending points split by weekdays
+2. A split of tourists vs natives
+3. Start and ending points split by gender to understand any nuances in gender
+
+
 
 
